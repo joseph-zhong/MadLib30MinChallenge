@@ -1,0 +1,2 @@
+<Male-Name> was eating.
+The <adjective> fox jumped over the <adjective> cow.
